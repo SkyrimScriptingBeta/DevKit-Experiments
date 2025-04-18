@@ -1,5 +1,5 @@
-<img src="resources/images/icon-256.png" align="right" />
+> _just experimenting (in the different branches)_
 
-# Papyrus Pad
+---
 
-> Skyrim modding utility for editing and authoring Papyrus scripts
+![Skyrim DevKit Experiments](images/experiments.png)
